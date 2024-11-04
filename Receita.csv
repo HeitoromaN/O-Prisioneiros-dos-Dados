@@ -1,0 +1,12 @@
+receita_id,consulta_id,medicamento_receitado,quantidade,instrucoes_uso
+1,1,Omeprazol,30,"Tomar 1 comprimido ao dia antes das refeições."
+2,2,Ciclofosfamida,10,"Tomar 1 comprimido a cada 12 horas por 10 dias."
+3,3,Sertralina,30,"Tomar 1 comprimido ao dia pela manhã."
+4,4,Metformina,60,"Tomar 1 comprimido durante as refeições."
+5,5,Látex,5,"Aplicar 1 pomada sobre a área afetada 3 vezes ao dia."
+6,6,Paracetamol,20,"Tomar 1 comprimido a cada 8 horas se necessário."
+7,7,Amoxicilina,14,"Tomar 1 comprimido a cada 8 horas por 7 dias."
+8,8,Ibuprofeno,30,"Tomar 1 comprimido a cada 6 horas, se necessário."
+9,9,Ranitidina,15,"Tomar 1 comprimido ao dia antes de dormir."
+10,10,Clonazepam,30,"Tomar 1 comprimido à noite."
+11,11,Losartana,30,"Tomar 1 comprimido ao dia, pela manhã."

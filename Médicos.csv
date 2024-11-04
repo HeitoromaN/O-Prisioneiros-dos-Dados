@@ -1,0 +1,11 @@
+id,nome,area_clinica,documentos,convenio,especialidade_id
+1,"Dr. João Pereira",Cardiologia,CRM12345,Unimed,1
+2,"Dra. Fernanda Souza",Ortopedia,CRM54321,"Bradesco Saúde",5
+3,"Dr. Marcelo Cunha",Dermatologia,CRM67890,Amil,3
+4,"Dra. Patricia Santos",Pediatria,CRM09876,SulAmérica,4
+5,"Dr. Ricardo Lima",Neurologia,CRM11223,NotreDame,6
+6,"Dr. Eduardo Martins",Gastroenterologia,CRM22445,Unimed,7
+7,"Dra. Camila Ribeiro",Oncologia,CRM33456,Amil,8
+8,"Dr. Rafael Almeida",Psiquiatria,CRM44567,SulAmérica,9
+9,"Dra. Luciana Ferreira",Endocrinologia,CRM55678,"Bradesco Saúde",10
+10,"Dr. Felipe Castro",Oftalmologia,CRM66789,NotreDame,11
